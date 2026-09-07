@@ -1,5 +1,5 @@
 # shopify-grouped-category-showcase
-```markdown
+
 # 🛍️ Shopify Grouped Category Sliders & ScrollSpy
 
 A high-performance, responsive multi-department category showcase built with vanilla Liquid, CSS Grid, and zero-dependency JavaScript. Features horizontal sub-collection carousels for desktop and an auto-centering, scroll-synchronized category anchor pill bar for mobile devices.
@@ -651,4 +651,4 @@ document.addEventListener('DOMContentLoaded', () => {
 }
 {% endschema %}
 
-```
+
